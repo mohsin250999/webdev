@@ -1,0 +1,26 @@
+#head{
+    font-family: 'Baloo Chettan', cursive;
+    text-align: left;
+    background:white;
+}
+img{
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 600px;
+    width: 50%;
+}
+.download{
+    cursor: pointer;
+}
+.info{ font-family: fantasy;
+
+}
+.points{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.end{
+    font-family: 'Times New Roman', Times, serif;
+}
