@@ -1,19 +1,25 @@
 #head{
-    font-family: 'Baloo Chettan', cursive;
-    text-align: left;
-    background:white;
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    color:black;
+    width:100%;
+    font-size: 35px;
+    margin-bottom: 25px;
+
 }
 img{
     border-radius: 8px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 600px;
-    width: 50%;
+}
+.body{
+    background:white;
 }
 .download{
     cursor: pointer;
 }
+
 .info{ font-family: fantasy;
 
 }
@@ -23,4 +29,10 @@ img{
 
 .end{
     font-family: 'Times New Roman', Times, serif;
+}
+
+.download{
+    height: 100px;
+    width: 100px;
+    border-radius: 40px;
 }
